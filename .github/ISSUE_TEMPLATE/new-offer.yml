@@ -1,0 +1,31 @@
+name: Suggest an offer
+description: Found a voucher or discount that isn't on the list, or one that's changed? Let me know.
+title: "[Offer] "
+labels: ["offer"]
+body:
+  - type: input
+    id: url
+    attributes:
+      label: Link to the official announcement
+      description: The Microsoft (or partner) page, not a video or a repost if you can help it.
+      placeholder: https://learn.microsoft.com/...
+    validations:
+      required: true
+  - type: input
+    id: exams
+    attributes:
+      label: Exams covered
+      placeholder: AZ-900, AI-900
+  - type: input
+    id: discount
+    attributes:
+      label: Discount
+      placeholder: Free / 50% off / 80% off (beta)
+  - type: input
+    id: dates
+    attributes:
+      label: Dates or deadline
+  - type: textarea
+    id: notes
+    attributes:
+      label: Who can get it, and how

@@ -1,0 +1,42 @@
+name: Sync offers
+
+on:
+  schedule:
+    - cron: "17 */6 * * *" # every 6 hours
+  workflow_dispatch:
+  # The site's automation can trigger an immediate sync after it changes offers:
+  # POST /repos/ashiwanikumar/microsoft-certification-vouchers/dispatches {"event_type":"offers-updated"}
+  repository_dispatch:
+    types: [offers-updated]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-offers
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Regenerate README and offers.json
+        run: node scripts/build-readme.mjs
+
+      - name: Commit if anything changed
+        run: |
+          if git diff --quiet; then
+            echo "No changes."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md offers.json
+          git commit -m "Update voucher offers"
+          git push

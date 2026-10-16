@@ -1,0 +1,153 @@
+{
+  "updatedAt": "2026-10-17T00:00:00.000Z",
+  "offers": [
+    {
+      "title": "Half-price AZ-900 through DataCamp",
+      "provider": "DataCamp + GitHub Education",
+      "exams": [
+        "AZ-900"
+      ],
+      "discount": "50% off",
+      "status": "active",
+      "startDate": null,
+      "endDate": null,
+      "validity": "The code lasts 3 to 6 months. The email tells you the exact date.",
+      "eligibility": "Students. You need the GitHub Student Developer Pack, which comes with 3 months of DataCamp Premium for free.",
+      "steps": [
+        "Sign up for the GitHub Student Developer Pack. GitHub will ask for proof that you're a student.",
+        "Inside the pack, claim the DataCamp offer. That gets you 3 months of Premium.",
+        "Do the Azure Fundamentals track. It's 4 courses, roughly 8 hours.",
+        "DataCamp emails the code, usually within 3 days. If it doesn't show up, ask their support."
+      ],
+      "links": [
+        {
+          "label": "GitHub Student Pack",
+          "url": "https://education.github.com/pack"
+        },
+        {
+          "label": "Azure Fundamentals track",
+          "url": "https://www.datacamp.com/tracks/azure-fundamentals"
+        }
+      ],
+      "slug": "datacamp-az-900-50",
+      "summary": "If you're a student, finish DataCamp's Azure Fundamentals track and they'll email you a 50% off code for AZ-900."
+    },
+    {
+      "title": "Half-price PL-300 through DataCamp",
+      "provider": "DataCamp + GitHub Education",
+      "exams": [
+        "PL-300"
+      ],
+      "discount": "50% off",
+      "status": "active",
+      "startDate": null,
+      "endDate": null,
+      "validity": "The code lasts 3 to 6 months. The email tells you the exact date.",
+      "eligibility": "Students. You need the GitHub Student Developer Pack, which comes with 3 months of DataCamp Premium for free.",
+      "steps": [
+        "Get the GitHub Student Developer Pack and claim DataCamp Premium from it.",
+        "Work through the Data Analyst in Power BI track. Give yourself a few weeks, it's long.",
+        "Use the 50% code DataCamp sends you when you book PL-300."
+      ],
+      "links": [
+        {
+          "label": "GitHub Student Pack",
+          "url": "https://education.github.com/pack"
+        },
+        {
+          "label": "Microsoft Credentials",
+          "url": "https://learn.microsoft.com/en-us/credentials/"
+        }
+      ],
+      "slug": "datacamp-pl-300-50",
+      "summary": "Same deal as the AZ-900 one, but for the Power BI exam. The track is a lot longer, about 48 hours."
+    },
+    {
+      "title": "Microsoft Virtual Training Days",
+      "provider": "Microsoft",
+      "exams": [
+        "AZ-900",
+        "AI-900",
+        "DP-900",
+        "SC-900"
+      ],
+      "discount": "Free voucher on some events",
+      "status": "ongoing",
+      "startDate": null,
+      "endDate": null,
+      "validity": "Depends on the event. Check the email you get afterwards.",
+      "eligibility": "Anyone can join, but not every event comes with a voucher. The event page says if it does.",
+      "steps": [
+        "Find a Fundamentals event on the Virtual Training Days page and check that it mentions a voucher.",
+        "Register and attend all the sessions.",
+        "Microsoft emails the voucher after the event."
+      ],
+      "links": [
+        {
+          "label": "Virtual Training Days",
+          "url": "https://events.microsoft.com/en-us/mvtd"
+        }
+      ],
+      "slug": "microsoft-virtual-training-days",
+      "summary": "Free online sessions run by Microsoft. Some of the Fundamentals ones come with a free exam voucher if you attend the whole thing."
+    },
+    {
+      "title": "Microsoft Certification Week 2026",
+      "provider": "Microsoft",
+      "exams": [
+        "16 certs across Azure, AI, Security, GitHub, Fabric"
+      ],
+      "discount": "1 free exam voucher",
+      "status": "closed",
+      "startDate": "2026-09-28",
+      "endDate": "2026-10-02",
+      "validity": "Finished",
+      "eligibility": "You had to score 80% or more on your first LevelUp practice assessment.",
+      "steps": [],
+      "links": [
+        {
+          "label": "Microsoft Credentials",
+          "url": "https://learn.microsoft.com/en-us/credentials/"
+        }
+      ],
+      "slug": "microsoft-certification-week-2026",
+      "summary": "A week of live training covering 16 certifications. If you scored 80% or more on your first LevelUp practice test, you could get a free voucher."
+    },
+    {
+      "title": "60 Days of Data & AI (Fabric and SQL)",
+      "provider": "Microsoft",
+      "exams": [
+        "DP-600",
+        "DP-700",
+        "DP-800"
+      ],
+      "discount": "100% off",
+      "status": "closed",
+      "startDate": "2026-06-15",
+      "endDate": "2026-08-10",
+      "validity": "Finished",
+      "eligibility": "Watch 2 Data Days sessions and finish 3 Microsoft Learn modules. There was a limited number, first come first served.",
+      "steps": [],
+      "links": [],
+      "slug": "fabric-data-days-2026",
+      "summary": "A free DP-600, DP-700 or DP-800 voucher for watching two Data Days sessions and finishing three Microsoft Learn modules."
+    },
+    {
+      "title": "Microsoft AI Skills Fest 2026",
+      "provider": "Microsoft",
+      "exams": [
+        "Various"
+      ],
+      "discount": "1 free exam voucher",
+      "status": "closed",
+      "startDate": "2026-06-08",
+      "endDate": "2026-06-12",
+      "validity": "Finished",
+      "eligibility": "Complete an eligible AI Skills Navigator playlist between 8 and 12 June 2026.",
+      "steps": [],
+      "links": [],
+      "slug": "ai-skills-fest-2026",
+      "summary": "Finish one of the AI Skills Navigator playlists during the event and get a free exam voucher and a Credly badge."
+    }
+  ]
+}
