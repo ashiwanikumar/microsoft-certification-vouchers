@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T18:15:03.941Z",
+  "updatedAt": "2026-10-19T00:15:03.351Z",
   "offers": [
     {
       "slug": "datacamp-az-900-50",
@@ -71,6 +71,38 @@
       "validity": "The code lasts 3 to 6 months. The email tells you the exact date."
     },
     {
+      "slug": "fastlane-amer-sales-en-2026-10-19",
+      "createdAt": "2026-10-17T05:06:47.308Z",
+      "discount": "Free exam voucher",
+      "eligibility": "Microsoft partners. You register with your work email, and score 80% or more on your first LevelUp practice test to get a voucher. Vouchers are limited.",
+      "endDate": "2026-10-21T00:00:00.000Z",
+      "exams": [
+        "AB-730",
+        "AB-731"
+      ],
+      "lastVerifiedAt": "2026-10-19T00:15:01.374Z",
+      "links": [
+        {
+          "label": "Register on Fast Lane",
+          "url": "https://certweeks.fastlane.net/amer/sales-en"
+        }
+      ],
+      "provider": "Microsoft (run by Fast Lane)",
+      "sourceUrl": "https://certweeks.fastlane.net/amer/sales-en",
+      "startDate": "2026-10-19T00:00:00.000Z",
+      "status": "active",
+      "steps": [
+        "Register on the Fast Lane page with your work email.",
+        "Attend the live sessions.",
+        "Take the LevelUp practice test and score 80% or more on your first try.",
+        "LevelUp sends you the voucher for your exam."
+      ],
+      "summary": "Three half-day live sessions for Microsoft partner sellers, preparing for the AB-730 and AB-731 exams. People who qualify get a free exam voucher through LevelUp, while they last.",
+      "title": "Microsoft Sales Certification Week (Americas, English)",
+      "updatedAt": "2026-10-19T00:15:01.374Z",
+      "validity": "Check the LevelUp email for the expiry date"
+    },
+    {
       "slug": "microsoft-virtual-training-days",
       "createdAt": "2026-10-16T21:11:11.085Z",
       "discount": "Free or discounted exam (varies by event)",
@@ -133,38 +165,6 @@
       "validity": ""
     },
     {
-      "slug": "fastlane-amer-sales-en-2026-10-19",
-      "createdAt": "2026-10-17T05:06:47.308Z",
-      "discount": "Free exam voucher",
-      "eligibility": "Microsoft partners. You register with your work email, and score 80% or more on your first LevelUp practice test to get a voucher. Vouchers are limited.",
-      "endDate": "2026-10-21T00:00:00.000Z",
-      "exams": [
-        "AB-730",
-        "AB-731"
-      ],
-      "lastVerifiedAt": "2026-10-18T18:15:01.439Z",
-      "links": [
-        {
-          "label": "Register on Fast Lane",
-          "url": "https://certweeks.fastlane.net/amer/sales-en"
-        }
-      ],
-      "provider": "Microsoft (run by Fast Lane)",
-      "sourceUrl": "https://certweeks.fastlane.net/amer/sales-en",
-      "startDate": "2026-10-19T00:00:00.000Z",
-      "status": "upcoming",
-      "steps": [
-        "Register on the Fast Lane page with your work email.",
-        "Attend the live sessions.",
-        "Take the LevelUp practice test and score 80% or more on your first try.",
-        "LevelUp sends you the voucher for your exam."
-      ],
-      "summary": "Three half-day live sessions for Microsoft partner sellers, preparing for the AB-730 and AB-731 exams. People who qualify get a free exam voucher through LevelUp, while they last.",
-      "title": "Microsoft Sales Certification Week (Americas, English)",
-      "updatedAt": "2026-10-18T18:15:01.440Z",
-      "validity": "Check the LevelUp email for the expiry date"
-    },
-    {
       "slug": "fastlane-emea-ais-aibs-es-2026-10-26",
       "createdAt": "2026-10-17T05:06:47.900Z",
       "discount": "Free exam voucher",
@@ -188,7 +188,7 @@
         "MS-721",
         "PL-400"
       ],
-      "lastVerifiedAt": "2026-10-18T18:15:02.058Z",
+      "lastVerifiedAt": "2026-10-19T00:15:01.983Z",
       "links": [
         {
           "label": "Register on Fast Lane",
@@ -207,7 +207,7 @@
       ],
       "summary": "Five days of live, instructor-led prep for 16 Microsoft certifications across Azure, security, AI, Dynamics and Power Platform, run by Fast Lane for Microsoft. Score 80% or more on your first LevelUp practice test and you get a free exam voucher.",
       "title": "Microsoft Certification Week (EMEA, Spanish)",
-      "updatedAt": "2026-10-18T18:15:02.058Z",
+      "updatedAt": "2026-10-19T00:15:01.983Z",
       "validity": "Check the LevelUp email for the expiry date"
     },
     {
@@ -220,7 +220,7 @@
         "AB-730",
         "AB-731"
       ],
-      "lastVerifiedAt": "2026-10-18T18:15:02.509Z",
+      "lastVerifiedAt": "2026-10-19T00:15:02.309Z",
       "links": [
         {
           "label": "Register on Fast Lane",
@@ -239,7 +239,7 @@
       ],
       "summary": "Three half-day live sessions for Microsoft partner sellers, preparing for the AB-730 and AB-731 exams. People who qualify get a free exam voucher through LevelUp, while they last.",
       "title": "Microsoft Sales Certification Week (Asia, English)",
-      "updatedAt": "2026-10-18T18:15:02.510Z",
+      "updatedAt": "2026-10-19T00:15:02.310Z",
       "validity": "Check the LevelUp email for the expiry date"
     },
     {
@@ -266,7 +266,7 @@
         "MS-721",
         "PL-400"
       ],
-      "lastVerifiedAt": "2026-10-18T18:15:03.009Z",
+      "lastVerifiedAt": "2026-10-19T00:15:02.677Z",
       "links": [
         {
           "label": "Register on Fast Lane",
@@ -285,7 +285,7 @@
       ],
       "summary": "Five days of live, instructor-led prep for 16 Microsoft certifications across Azure, security, AI, Dynamics and Power Platform, run by Fast Lane for Microsoft. Score 80% or more on your first LevelUp practice test and you get a free exam voucher.",
       "title": "Microsoft Certification Week (EMEA, German)",
-      "updatedAt": "2026-10-18T18:15:03.010Z",
+      "updatedAt": "2026-10-19T00:15:02.677Z",
       "validity": "Check the LevelUp email for the expiry date"
     },
     {
@@ -312,7 +312,7 @@
         "MS-721",
         "PL-400"
       ],
-      "lastVerifiedAt": "2026-10-18T18:15:03.483Z",
+      "lastVerifiedAt": "2026-10-19T00:15:03.032Z",
       "links": [
         {
           "label": "Register on Fast Lane",
@@ -331,7 +331,7 @@
       ],
       "summary": "Five days of live, instructor-led prep for 16 Microsoft certifications across Azure, security, AI, Dynamics and Power Platform, run by Fast Lane for Microsoft. Score 80% or more on your first LevelUp practice test and you get a free exam voucher.",
       "title": "Microsoft Certification Week (EMEA, Italian)",
-      "updatedAt": "2026-10-18T18:15:03.483Z",
+      "updatedAt": "2026-10-19T00:15:03.032Z",
       "validity": "Check the LevelUp email for the expiry date"
     },
     {
@@ -344,7 +344,7 @@
         "AB-730",
         "AB-731"
       ],
-      "lastVerifiedAt": "2026-10-18T18:15:03.941Z",
+      "lastVerifiedAt": "2026-10-19T00:15:03.350Z",
       "links": [
         {
           "label": "Register on Fast Lane",
@@ -363,7 +363,7 @@
       ],
       "summary": "Three half-day live sessions for Microsoft partner sellers, preparing for the AB-730 and AB-731 exams. People who qualify get a free exam voucher through LevelUp, while they last.",
       "title": "Microsoft Sales Certification Week (EMEA, English)",
-      "updatedAt": "2026-10-18T18:15:03.941Z",
+      "updatedAt": "2026-10-19T00:15:03.351Z",
       "validity": "Check the LevelUp email for the expiry date"
     },
     {
