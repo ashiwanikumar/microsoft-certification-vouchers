@@ -6,7 +6,7 @@ Microsoft exams aren't cheap, but every so often there's a way to take one for f
 
 The same list is on my site at [ashiwanikumar.com/certification-vouchers](https://ashiwanikumar.com/certification-vouchers). You can leave your email there and I'll let you know when a new one opens.
 
-Last updated 19 Oct 2026.
+Last updated 20 Oct 2026.
 
 ## Open right now
 
