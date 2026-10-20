@@ -14,7 +14,7 @@ Last updated 20 Oct 2026.
 |---|---|---|---|---|
 | [Half-price AZ-900 through DataCamp](https://ashiwanikumar.com/certification-vouchers/datacamp-az-900-50) | AZ-900 | **50% off** | No fixed end date | Open |
 | [Half-price PL-300 through DataCamp](https://ashiwanikumar.com/certification-vouchers/datacamp-pl-300-50) | PL-300 | **50% off** | No fixed end date | Open |
-| [Microsoft Sales Certification Week (Americas, English)](https://ashiwanikumar.com/certification-vouchers/fastlane-amer-sales-en-2026-10-19) | AB-730, AB-731 | **Free exam voucher** | 19 Oct 2026 – 21 Oct 2026 | Open |
+| [Microsoft Sales Certification Week (Americas, English)](https://ashiwanikumar.com/certification-vouchers/fastlane-amer-sales-en-2026-10-19) | AB-730, AB-731 | **Free** | 19 Oct 2026 – 21 Oct 2026 | Open |
 | [Microsoft Virtual Training Days](https://ashiwanikumar.com/certification-vouchers/microsoft-virtual-training-days) | AZ-900, AI-900, DP-900, SC-900 | **Free or discounted exam (varies by event)** | No fixed end date | Ongoing |
 | [Microsoft Student Discounts](https://ashiwanikumar.com/certification-vouchers/student-discounts-2026) | Varies - typically fundamentals exams | **Reduced pricing (varies)** | No fixed end date | Ongoing |
 | [Microsoft Certification Week (EMEA, Spanish)](https://ashiwanikumar.com/certification-vouchers/fastlane-emea-ais-aibs-es-2026-10-26) | SC-200, DP-600, AB-100, SC-401, SC-500, AI-200, GH-600, AZ-305, AB-410, AB-620, AB-210, AB-250, MD-102, MS-700, MS-721, PL-400 | **Free exam voucher** | 26 Oct 2026 – 30 Oct 2026 | Coming up |
@@ -76,7 +76,7 @@ How to get it:
 
 ### Microsoft Sales Certification Week (Americas, English)
 
-Open · Microsoft (run by Fast Lane) · **Free exam voucher**
+Open · Microsoft (run by Fast Lane) · **Free**
 
 Three half-day live sessions for Microsoft partner sellers, preparing for the AB-730 and AB-731 exams. People who qualify get a free exam voucher through LevelUp, while they last.
 
