@@ -6,7 +6,7 @@ Microsoft exams aren't cheap, but every so often there's a way to take one for f
 
 The same list is on my site at [ashiwanikumar.com/certification-vouchers](https://ashiwanikumar.com/certification-vouchers). You can leave your email there and I'll let you know when a new one opens.
 
-Last updated 31 Oct 2026.
+Last updated 1 Nov 2026.
 
 ## Open right now
 
@@ -14,8 +14,9 @@ Last updated 31 Oct 2026.
 |---|---|---|---|---|
 | [Half-price AZ-900 through DataCamp](https://ashiwanikumar.com/certification-vouchers/datacamp-az-900-50) | AZ-900 | **50% off** | No fixed end date | Open |
 | [Half-price PL-300 through DataCamp](https://ashiwanikumar.com/certification-vouchers/datacamp-pl-300-50) | PL-300 | **50% off** | No fixed end date | Open |
-| [Microsoft Virtual Training Days](https://ashiwanikumar.com/certification-vouchers/microsoft-virtual-training-days) | AZ-900, AI-900, DP-900, SC-900 | **Free or discounted exam (varies by event)** | No fixed end date | Ongoing |
-| [Microsoft Student Discounts](https://ashiwanikumar.com/certification-vouchers/student-discounts-2026) | Varies - typically fundamentals exams | **Reduced pricing (varies)** | No fixed end date | Ongoing |
+| [Microsoft Virtual Training Days](https://ashiwanikumar.com/certification-vouchers/microsoft-virtual-training-days) | AZ-900, AI-900, DP-900, SC-900 | **Free** | No fixed end date | Ongoing |
+| [Microsoft Student Discounts](https://ashiwanikumar.com/certification-vouchers/student-discounts-2026) | Varies - typically fundamentals exams | **Discounted** | No fixed end date | Ongoing |
+| [Free exams through Enterprise Skills Initiative](https://ashiwanikumar.com/certification-vouchers/microsoft-enterprise-skills-initiative) | Various Microsoft certification exams | **Free** | No fixed end date | Ongoing |
 | [Microsoft Sales Certification Week (Asia, English)](https://ashiwanikumar.com/certification-vouchers/fastlane-asia-sales-en-2026-11-17) | AB-730, AB-731 | **Free** | 17 Nov 2026 – 19 Nov 2026 | Coming up |
 | [Microsoft Certification Week (EMEA, German)](https://ashiwanikumar.com/certification-vouchers/fastlane-emea-ais-aibs-de-2026-11-23) | SC-200, DP-600, AB-100, SC-401, SC-500, AI-200, GH-600, AZ-305, AB-410, AB-620, AB-210, AB-250, MD-102, MS-700, MS-721, PL-400 | **Free** | 23 Nov 2026 – 27 Nov 2026 | Coming up |
 | [Microsoft Certification Week (EMEA, Italian)](https://ashiwanikumar.com/certification-vouchers/fastlane-emea-ais-aibs-it-2026-11-23) | SC-200, DP-600, AB-100, SC-401, SC-500, AI-200, GH-600, AZ-305, AB-410, AB-620, AB-210, AB-250, MD-102, MS-700, MS-721, PL-400 | **Free** | 23 Nov 2026 – 27 Nov 2026 | Coming up |
@@ -77,7 +78,7 @@ How to get it:
 
 ### Microsoft Virtual Training Days
 
-Ongoing · Microsoft · **Free or discounted exam (varies by event)**
+Ongoing · Microsoft · **Free**
 
 Free online sessions run by Microsoft. Some of the Fundamentals ones come with a free exam voucher if you attend the whole thing.
 
@@ -96,7 +97,7 @@ How to get it:
 
 ### Microsoft Student Discounts
 
-Ongoing · Microsoft · **Reduced pricing (varies)**
+Ongoing · Microsoft · **Discounted**
 
 Reduced exam pricing for eligible students on select Microsoft certification exams.
 
@@ -110,6 +111,24 @@ How to get it:
 2. Access student pricing when scheduling exam
 
 [More on my site](https://ashiwanikumar.com/certification-vouchers/student-discounts-2026) · [Microsoft student discounts](https://learn.microsoft.com/en-us/credentials/certifications/student-discounts)
+
+### Free exams through Enterprise Skills Initiative
+
+Ongoing · Microsoft · **Free**
+
+Employees at Microsoft partner organizations can get free certification exams through their company's ESI program.
+
+- **Exams:** Various Microsoft certification exams
+- **Dates:** No fixed end date
+- **Who can get it:** Employees at large enterprises with Microsoft partnership
+
+How to get it:
+
+1. Check if your employer is a Microsoft partner
+2. Visit esi.microsoft.com
+3. Register with your work email
+
+[More on my site](https://ashiwanikumar.com/certification-vouchers/microsoft-enterprise-skills-initiative) · [Enterprise Skills Initiative](https://esi.microsoft.com/)
 
 ### Microsoft Sales Certification Week (Asia, English)
 
