@@ -17,6 +17,7 @@ Last updated 3 Nov 2026.
 | [Microsoft Virtual Training Days](https://ashiwanikumar.com/certification-vouchers/microsoft-virtual-training-days) | AZ-900, AI-900, DP-900, SC-900 | **Free** | No fixed end date | Ongoing |
 | [Microsoft Student Discounts](https://ashiwanikumar.com/certification-vouchers/student-discounts-2026) | Varies - typically fundamentals exams | **Discounted** | No fixed end date | Ongoing |
 | [Free exams through Enterprise Skills Initiative](https://ashiwanikumar.com/certification-vouchers/microsoft-enterprise-skills-initiative) | Various Microsoft certification exams | **Free** | No fixed end date | Ongoing |
+| [Microsoft certification voucher options overview](https://ashiwanikumar.com/certification-vouchers/microsoft-learn-answers-vouchers) | Various fundamentals exams through Virtual Training Days | **Free or discounted depending on program** | No fixed end date | Ongoing |
 | [Microsoft Sales Certification Week (Asia, English)](https://ashiwanikumar.com/certification-vouchers/fastlane-asia-sales-en-2026-11-17) | AB-730, AB-731 | **Free exam voucher** | 17 Nov 2026 – 19 Nov 2026 | Coming up |
 | [Microsoft Certification Week (EMEA, German)](https://ashiwanikumar.com/certification-vouchers/fastlane-emea-ais-aibs-de-2026-11-23) | SC-200, DP-600, AB-100, SC-401, SC-500, AI-200, GH-600, AZ-305, AB-410, AB-620, AB-210, AB-250, MD-102, MS-700, MS-721, PL-400 | **Free** | 23 Nov 2026 – 27 Nov 2026 | Coming up |
 | [Microsoft Certification Week (EMEA, Italian)](https://ashiwanikumar.com/certification-vouchers/fastlane-emea-ais-aibs-it-2026-11-23) | SC-200, DP-600, AB-100, SC-401, SC-500, AI-200, GH-600, AZ-305, AB-410, AB-620, AB-210, AB-250, MD-102, MS-700, MS-721, PL-400 | **Free** | 23 Nov 2026 – 27 Nov 2026 | Coming up |
@@ -129,6 +130,24 @@ How to get it:
 3. Register with your work email
 
 [More on my site](https://ashiwanikumar.com/certification-vouchers/microsoft-enterprise-skills-initiative) · [Enterprise Skills Initiative](https://esi.microsoft.com/)
+
+### Microsoft certification voucher options overview
+
+Ongoing · Microsoft · **Free or discounted depending on program**
+
+Microsoft Learn answers page explains how to get exam discounts through Virtual Training Days, LevelUp campaigns for partners, and Enterprise Skills Initiative for employees at large companies. No discounts exist for individual self-funding learners.
+
+- **Exams:** Various fundamentals exams through Virtual Training Days
+- **Dates:** No fixed end date
+- **Who can get it:** Varies by program: general public for Virtual Training Days, Microsoft partners for LevelUp, enterprise employees for ESI
+
+How to get it:
+
+1. Check Virtual Training Days schedule for free fundamentals exam vouchers
+2. Contact your employer about Enterprise Skills Initiative if employed at a large company
+3. If a Microsoft partner, check LevelUp programs
+
+[More on my site](https://ashiwanikumar.com/certification-vouchers/microsoft-learn-answers-vouchers) · [Microsoft Learn Answers](https://learn.microsoft.com/en-us/answers/questions/5742504/inquiry-about-50-discount-or-voucher-availability)
 
 ### Microsoft Sales Certification Week (Asia, English)
 
