@@ -6,7 +6,7 @@ Microsoft exams aren't cheap, but every so often there's a way to take one for f
 
 The same list is on my site at [ashiwanikumar.com/certification-vouchers](https://ashiwanikumar.com/certification-vouchers). You can leave your email there and I'll let you know when a new one opens.
 
-Last updated 5 Nov 2026.
+Last updated 6 Nov 2026.
 
 ## Open right now
 
@@ -33,6 +33,7 @@ These are over, but most of them come back in some form, so they're a decent gui
 | [Microsoft Sales Certification Week (Americas, English)](https://ashiwanikumar.com/certification-vouchers/fastlane-amer-sales-en-2026-10-19) | AB-730, AB-731 | **Free** | 19 Oct 2026 – 21 Oct 2026 | Finished |
 | [Microsoft Certification Week EMEA English](https://ashiwanikumar.com/certification-vouchers/fastlane-emea-ais-aibs-en-2026-10-12) | Various Microsoft certifications | **Free** | 12 Oct 2026 – 16 Oct 2026 | Finished |
 | [Microsoft Certification Week 2026](https://ashiwanikumar.com/certification-vouchers/microsoft-certification-week-2026) | 16 certs across Azure, AI, Security, GitHub, Fabric | **1 free exam voucher** | 28 Sept 2026 – 2 Oct 2026 | Finished |
+| [Microsoft Defender Skilling Challenge 50% off voucher](https://ashiwanikumar.com/certification-vouchers/microsoft-defender-challenge-2026) | SC-200, SC-500 | **50% off** | 20 Jul 2026 – 21 Aug 2026 | Finished |
 | [60 Days of Data & AI (Fabric and SQL)](https://ashiwanikumar.com/certification-vouchers/fabric-data-days-2026) | DP-600, DP-700, DP-800 | **100% off** | 15 Jun 2026 – 10 Aug 2026 | Finished |
 | [Microsoft AI Skills Fest 2026](https://ashiwanikumar.com/certification-vouchers/ai-skills-fest-2026) | Various | **1 free exam voucher** | 8 Jun 2026 – 12 Jun 2026 | Finished |
 
@@ -300,6 +301,24 @@ A week of live training covering 16 certifications. If you scored 80% or more on
 - **Who can get it:** You had to score 80% or more on your first LevelUp practice assessment.
 
 [More on my site](https://ashiwanikumar.com/certification-vouchers/microsoft-certification-week-2026) · [Microsoft Credentials](https://learn.microsoft.com/en-us/credentials/)
+
+### Microsoft Defender Skilling Challenge 50% off voucher
+
+Finished · Microsoft · **50% off**
+
+Complete the Microsoft Defender Skilling Challenge and enter a sweepstakes for a chance to win one of 500 50% off vouchers for SC-200 or SC-500.
+
+- **Exams:** SC-200, SC-500
+- **Dates:** 20 Jul 2026 – 21 Aug 2026
+- **Who can get it:** Anyone who completes the challenge and enters the sweepstakes
+
+How to get it:
+
+1. Register for and complete the Microsoft Defender Skilling Challenge
+2. Submit entry via sweepstakes form
+3. Wait to see if you are selected as a winner
+
+[More on my site](https://ashiwanikumar.com/certification-vouchers/microsoft-defender-challenge-2026) · [Official page](https://learn.microsoft.com/en-us/security/challenge/defender-challenge)
 
 ### 60 Days of Data & AI (Fabric and SQL)
 
