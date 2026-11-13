@@ -6,7 +6,7 @@ Microsoft exams aren't cheap, but every so often there's a way to take one for f
 
 The same list is on my site at [ashiwanikumar.com/certification-vouchers](https://ashiwanikumar.com/certification-vouchers). You can leave your email there and I'll let you know when a new one opens.
 
-Last updated 12 Nov 2026.
+Last updated 13 Nov 2026.
 
 ## Open right now
 
@@ -15,7 +15,7 @@ Last updated 12 Nov 2026.
 | [Half-price AZ-900 through DataCamp](https://ashiwanikumar.com/certification-vouchers/datacamp-az-900-50) | AZ-900 | **50% off** | No fixed end date | Open |
 | [Half-price PL-300 through DataCamp](https://ashiwanikumar.com/certification-vouchers/datacamp-pl-300-50) | PL-300 | **50% off** | No fixed end date | Open |
 | [Microsoft Virtual Training Days](https://ashiwanikumar.com/certification-vouchers/microsoft-virtual-training-days) | AZ-900, AI-900, DP-900, SC-900 | **Free** | No fixed end date | Ongoing |
-| [Microsoft Student Discounts](https://ashiwanikumar.com/certification-vouchers/student-discounts-2026) | Varies - typically fundamentals exams | **Variable academic pricing** | No fixed end date | Ongoing |
+| [Microsoft Student Discounts](https://ashiwanikumar.com/certification-vouchers/student-discounts-2026) | Varies - typically fundamentals exams | **Student pricing (varies)** | No fixed end date | Ongoing |
 | [Free exams through Enterprise Skills Initiative](https://ashiwanikumar.com/certification-vouchers/microsoft-enterprise-skills-initiative) | Various Microsoft certification exams | **Free** | No fixed end date | Ongoing |
 | [Microsoft certification voucher options overview](https://ashiwanikumar.com/certification-vouchers/microsoft-learn-answers-vouchers) | Various fundamentals exams through Virtual Training Days | **Varies by offer** | No fixed end date | Ongoing |
 | [Microsoft Sales Certification Week (Asia, English)](https://ashiwanikumar.com/certification-vouchers/fastlane-asia-sales-en-2026-11-17) | AB-730, AB-731 | **Free exam voucher** | 17 Nov 2026 – 19 Nov 2026 | Coming up |
@@ -99,7 +99,7 @@ How to get it:
 
 ### Microsoft Student Discounts
 
-Ongoing · Microsoft · **Variable academic pricing**
+Ongoing · Microsoft · **Student pricing (varies)**
 
 Reduced exam pricing for eligible students on select Microsoft certification exams.
 
