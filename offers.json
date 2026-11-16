@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T18:15:03.033Z",
+  "updatedAt": "2026-11-16T06:15:02.894Z",
   "offers": [
     {
       "slug": "datacamp-az-900-50",
@@ -165,13 +165,13 @@
     {
       "slug": "microsoft-learn-answers-vouchers",
       "createdAt": "2026-11-03T05:31:23.427Z",
-      "discount": "Varies by program",
+      "discount": "Various",
       "eligibility": "Varies by program: general public for Virtual Training Days, Microsoft partners for LevelUp, enterprise employees for ESI",
       "endDate": null,
       "exams": [
         "Various fundamentals exams through Virtual Training Days"
       ],
-      "lastVerifiedAt": "2026-11-15T05:31:10.312Z",
+      "lastVerifiedAt": "2026-11-16T05:32:52.509Z",
       "links": [
         {
           "label": "Microsoft Learn Answers",
@@ -189,8 +189,68 @@
       ],
       "summary": "Microsoft Learn answers page explains how to get exam discounts through Virtual Training Days, LevelUp campaigns for partners, and Enterprise Skills Initiative for employees at large companies. No discounts exist for individual self-funding learners.",
       "title": "Microsoft certification voucher options overview",
-      "updatedAt": "2026-11-15T05:31:10.312Z",
+      "updatedAt": "2026-11-16T05:32:52.510Z",
       "validity": ""
+    },
+    {
+      "slug": "microsoft-skills-for-jobs-vouchers",
+      "createdAt": "2026-11-16T05:32:52.595Z",
+      "discount": "$15 per voucher (significant discount from standard price)",
+      "eligibility": "Organizations purchasing through Microsoft representative",
+      "endDate": null,
+      "exams": [
+        "MS-203",
+        "AI-900",
+        "AZ-104",
+        "AZ-120",
+        "AZ-140",
+        "AZ-204",
+        "AZ-400",
+        "AZ-500",
+        "AZ-600",
+        "AZ-900",
+        "DP-100",
+        "DP-203",
+        "DP-300",
+        "DP-900",
+        "MB-210",
+        "MB-220",
+        "MB-230",
+        "MB-260",
+        "MB-800",
+        "MB-910",
+        "MB-920",
+        "MS-500",
+        "MS-600",
+        "MS-700",
+        "MS-720",
+        "MS-900",
+        "PL-100",
+        "PL-200",
+        "PL-300",
+        "PL-400"
+      ],
+      "lastVerifiedAt": "2026-11-16T05:32:52.595Z",
+      "links": [
+        {
+          "label": "Voucher program details",
+          "url": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE56hSq"
+        }
+      ],
+      "provider": "Microsoft",
+      "sourceUrl": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE56hSq",
+      "startDate": null,
+      "status": "ongoing",
+      "steps": [
+        "Email Microsoft or LinkedIn representative with organization details",
+        "Request voucher quantity",
+        "Wait for confirmation",
+        "Purchase vouchers"
+      ],
+      "summary": "Organizations can purchase exam vouchers for $15 each through their Microsoft representative. Valid for one year from purchase.",
+      "title": "Microsoft Skills for Jobs exam vouchers",
+      "updatedAt": "2026-11-16T05:32:52.595Z",
+      "validity": "1 year from purchase"
     },
     {
       "slug": "fastlane-asia-sales-en-2026-11-17",
@@ -202,7 +262,7 @@
         "AB-730",
         "AB-731"
       ],
-      "lastVerifiedAt": "2026-11-15T18:15:01.667Z",
+      "lastVerifiedAt": "2026-11-16T06:15:01.552Z",
       "links": [
         {
           "label": "Register on Fast Lane",
@@ -221,7 +281,7 @@
       ],
       "summary": "Three half-day live sessions for Microsoft partner sellers, preparing for the AB-730 and AB-731 exams. People who qualify get a free exam voucher through LevelUp, while they last.",
       "title": "Microsoft Sales Certification Week (Asia, English)",
-      "updatedAt": "2026-11-15T18:15:01.668Z",
+      "updatedAt": "2026-11-16T06:15:01.552Z",
       "validity": "Check the LevelUp email for the expiry date"
     },
     {
@@ -248,7 +308,7 @@
         "MS-721",
         "PL-400"
       ],
-      "lastVerifiedAt": "2026-11-15T18:15:02.172Z",
+      "lastVerifiedAt": "2026-11-16T06:15:02.065Z",
       "links": [
         {
           "label": "Register on Fast Lane",
@@ -267,7 +327,7 @@
       ],
       "summary": "Five days of live, instructor-led prep for 16 Microsoft certifications across Azure, security, AI, Dynamics and Power Platform, run by Fast Lane for Microsoft. Score 80% or more on your first LevelUp practice test and you get a free exam voucher.",
       "title": "Microsoft Certification Week (EMEA, German)",
-      "updatedAt": "2026-11-15T18:15:02.173Z",
+      "updatedAt": "2026-11-16T06:15:02.065Z",
       "validity": "Check the LevelUp email for the expiry date"
     },
     {
@@ -294,7 +354,7 @@
         "MS-721",
         "PL-400"
       ],
-      "lastVerifiedAt": "2026-11-15T18:15:02.718Z",
+      "lastVerifiedAt": "2026-11-16T06:15:02.565Z",
       "links": [
         {
           "label": "Register on Fast Lane",
@@ -313,7 +373,7 @@
       ],
       "summary": "Five days of live, instructor-led prep for 16 Microsoft certifications across Azure, security, AI, Dynamics and Power Platform, run by Fast Lane for Microsoft. Score 80% or more on your first LevelUp practice test and you get a free exam voucher.",
       "title": "Microsoft Certification Week (EMEA, Italian)",
-      "updatedAt": "2026-11-15T18:15:02.719Z",
+      "updatedAt": "2026-11-16T06:15:02.566Z",
       "validity": "Check the LevelUp email for the expiry date"
     },
     {
@@ -326,7 +386,7 @@
         "AB-730",
         "AB-731"
       ],
-      "lastVerifiedAt": "2026-11-15T18:15:03.033Z",
+      "lastVerifiedAt": "2026-11-16T06:15:02.893Z",
       "links": [
         {
           "label": "Register on Fast Lane",
@@ -345,7 +405,7 @@
       ],
       "summary": "Three half-day live sessions for Microsoft partner sellers, preparing for the AB-730 and AB-731 exams. People who qualify get a free exam voucher through LevelUp, while they last.",
       "title": "Microsoft Sales Certification Week (EMEA, English)",
-      "updatedAt": "2026-11-15T18:15:03.033Z",
+      "updatedAt": "2026-11-16T06:15:02.894Z",
       "validity": "Check the LevelUp email for the expiry date"
     },
     {
