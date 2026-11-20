@@ -6,7 +6,7 @@ Microsoft exams aren't cheap, but every so often there's a way to take one for f
 
 The same list is on my site at [ashiwanikumar.com/certification-vouchers](https://ashiwanikumar.com/certification-vouchers). You can leave your email there and I'll let you know when a new one opens.
 
-Last updated 19 Nov 2026.
+Last updated 20 Nov 2026.
 
 ## Open right now
 
@@ -14,7 +14,6 @@ Last updated 19 Nov 2026.
 |---|---|---|---|---|
 | [Half-price AZ-900 through DataCamp](https://ashiwanikumar.com/certification-vouchers/datacamp-az-900-50) | AZ-900 | **50% off** | No fixed end date | Open |
 | [Half-price PL-300 through DataCamp](https://ashiwanikumar.com/certification-vouchers/datacamp-pl-300-50) | PL-300 | **50% off** | No fixed end date | Open |
-| [Microsoft Sales Certification Week (Asia, English)](https://ashiwanikumar.com/certification-vouchers/fastlane-asia-sales-en-2026-11-17) | AB-730, AB-731 | **Free exam voucher** | 17 Nov 2026 – 19 Nov 2026 | Open |
 | [Microsoft Virtual Training Days](https://ashiwanikumar.com/certification-vouchers/microsoft-virtual-training-days) | AZ-900, AI-900, DP-900, SC-900 | **Free** | No fixed end date | Ongoing |
 | [Microsoft Student Discounts](https://ashiwanikumar.com/certification-vouchers/student-discounts-2026) | Varies - typically fundamentals exams | **Student pricing (varies)** | No fixed end date | Ongoing |
 | [Free exams through Enterprise Skills Initiative](https://ashiwanikumar.com/certification-vouchers/microsoft-enterprise-skills-initiative) | Various Microsoft certification exams | **Free** | No fixed end date | Ongoing |
@@ -30,6 +29,7 @@ These are over, but most of them come back in some form, so they're a decent gui
 
 | Offer | Exams | Discount | When | Status |
 |---|---|---|---|---|
+| [Microsoft Sales Certification Week (Asia, English)](https://ashiwanikumar.com/certification-vouchers/fastlane-asia-sales-en-2026-11-17) | AB-730, AB-731 | **Free exam voucher** | 17 Nov 2026 – 19 Nov 2026 | Finished |
 | [Microsoft Certification Week (EMEA, Spanish)](https://ashiwanikumar.com/certification-vouchers/fastlane-emea-ais-aibs-es-2026-10-26) | SC-200, DP-600, AB-100, SC-401, SC-500, AI-200, GH-600, AZ-305, AB-410, AB-620, AB-210, AB-250, MD-102, MS-700, MS-721, PL-400 | **Free** | 26 Oct 2026 – 30 Oct 2026 | Finished |
 | [Microsoft Sales Certification Week (Americas, English)](https://ashiwanikumar.com/certification-vouchers/fastlane-amer-sales-en-2026-10-19) | AB-730, AB-731 | **Free** | 19 Oct 2026 – 21 Oct 2026 | Finished |
 | [Microsoft Certification Week EMEA English](https://ashiwanikumar.com/certification-vouchers/fastlane-emea-ais-aibs-en-2026-10-12) | Various Microsoft certifications | **Free** | 12 Oct 2026 – 16 Oct 2026 | Finished |
@@ -78,26 +78,6 @@ How to get it:
 3. Use the 50% code DataCamp sends you when you book PL-300.
 
 [More on my site](https://ashiwanikumar.com/certification-vouchers/datacamp-pl-300-50) · [GitHub Student Pack](https://education.github.com/pack) · [Microsoft Credentials](https://learn.microsoft.com/en-us/credentials/)
-
-### Microsoft Sales Certification Week (Asia, English)
-
-Open · Microsoft (run by Fast Lane) · **Free exam voucher**
-
-Three half-day live sessions for Microsoft partner sellers, preparing for the AB-730 and AB-731 exams. People who qualify get a free exam voucher through LevelUp, while they last.
-
-- **Exams:** AB-730, AB-731
-- **Dates:** 17 Nov 2026 – 19 Nov 2026
-- **Who can get it:** Microsoft partners. You register with your work email, and score 80% or more on your first LevelUp practice test to get a voucher. Vouchers are limited.
-- **How long the voucher lasts:** Check the LevelUp email for the expiry date
-
-How to get it:
-
-1. Register on the Fast Lane page with your work email.
-2. Attend the live sessions.
-3. Take the LevelUp practice test and score 80% or more on your first try.
-4. LevelUp sends you the voucher for your exam.
-
-[More on my site](https://ashiwanikumar.com/certification-vouchers/fastlane-asia-sales-en-2026-11-17) · [Register on Fast Lane](https://certweeks.fastlane.net/asia/sales-en)
 
 ### Microsoft Virtual Training Days
 
@@ -253,6 +233,25 @@ How to get it:
 
 <details>
 <summary>Finished offers</summary>
+
+### Microsoft Sales Certification Week (Asia, English)
+
+Finished · Microsoft (run by Fast Lane) · **Free exam voucher**
+
+Three half-day live sessions for Microsoft partner sellers, preparing for the AB-730 and AB-731 exams. People who qualify get a free exam voucher through LevelUp, while they last.
+
+- **Exams:** AB-730, AB-731
+- **Dates:** 17 Nov 2026 – 19 Nov 2026
+- **Who can get it:** Microsoft partners. You register with your work email, and score 80% or more on your first LevelUp practice test to get a voucher. Vouchers are limited.
+
+How to get it:
+
+1. Register on the Fast Lane page with your work email.
+2. Attend the live sessions.
+3. Take the LevelUp practice test and score 80% or more on your first try.
+4. LevelUp sends you the voucher for your exam.
+
+[More on my site](https://ashiwanikumar.com/certification-vouchers/fastlane-asia-sales-en-2026-11-17) · [Register on Fast Lane](https://certweeks.fastlane.net/asia/sales-en)
 
 ### Microsoft Certification Week (EMEA, Spanish)
 
