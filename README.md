@@ -6,7 +6,7 @@ Microsoft exams aren't cheap, but every so often there's a way to take one for f
 
 The same list is on my site at [ashiwanikumar.com/certification-vouchers](https://ashiwanikumar.com/certification-vouchers). You can leave your email there and I'll let you know when a new one opens.
 
-Last updated 22 Nov 2026.
+Last updated 23 Nov 2026.
 
 ## Open right now
 
@@ -14,13 +14,13 @@ Last updated 22 Nov 2026.
 |---|---|---|---|---|
 | [Half-price AZ-900 through DataCamp](https://ashiwanikumar.com/certification-vouchers/datacamp-az-900-50) | AZ-900 | **50% off** | No fixed end date | Open |
 | [Half-price PL-300 through DataCamp](https://ashiwanikumar.com/certification-vouchers/datacamp-pl-300-50) | PL-300 | **50% off** | No fixed end date | Open |
+| [Microsoft Certification Week (EMEA, German)](https://ashiwanikumar.com/certification-vouchers/fastlane-emea-ais-aibs-de-2026-11-23) | SC-200, DP-600, AB-100, SC-401, SC-500, AI-200, GH-600, AZ-305, AB-410, AB-620, AB-210, AB-250, MD-102, MS-700, MS-721, PL-400 | **Free** | 23 Nov 2026 – 27 Nov 2026 | Open |
+| [Microsoft Certification Week (EMEA, Italian)](https://ashiwanikumar.com/certification-vouchers/fastlane-emea-ais-aibs-it-2026-11-23) | SC-200, DP-600, AB-100, SC-401, SC-500, AI-200, GH-600, AZ-305, AB-410, AB-620, AB-210, AB-250, MD-102, MS-700, MS-721, PL-400 | **Free** | 23 Nov 2026 – 27 Nov 2026 | Open |
 | [Microsoft Virtual Training Days](https://ashiwanikumar.com/certification-vouchers/microsoft-virtual-training-days) | AZ-900, AI-900, DP-900, SC-900 | **Free** | No fixed end date | Ongoing |
 | [Microsoft Student Discounts](https://ashiwanikumar.com/certification-vouchers/student-discounts-2026) | Varies - typically fundamentals exams | **Student pricing (varies)** | No fixed end date | Ongoing |
 | [Free exams through Enterprise Skills Initiative](https://ashiwanikumar.com/certification-vouchers/microsoft-enterprise-skills-initiative) | Various Microsoft certification exams | **Free** | No fixed end date | Ongoing |
 | [Microsoft certification voucher options overview](https://ashiwanikumar.com/certification-vouchers/microsoft-learn-answers-vouchers) | Various fundamentals exams through Virtual Training Days | **Various** | No fixed end date | Ongoing |
 | [Microsoft Skills for Jobs exam vouchers](https://ashiwanikumar.com/certification-vouchers/microsoft-skills-for-jobs-vouchers) | MS-203, AI-900, AZ-104, AZ-120, AZ-140, AZ-204, AZ-400, AZ-500, AZ-600, AZ-900, DP-100, DP-203, DP-300, DP-900, MB-210, MB-220, MB-230, MB-260, MB-800, MB-910, MB-920, MS-500, MS-600, MS-700, MS-720, MS-900, PL-100, PL-200, PL-300, PL-400 | **$15 per voucher (significant discount from standard price)** | No fixed end date | Ongoing |
-| [Microsoft Certification Week (EMEA, German)](https://ashiwanikumar.com/certification-vouchers/fastlane-emea-ais-aibs-de-2026-11-23) | SC-200, DP-600, AB-100, SC-401, SC-500, AI-200, GH-600, AZ-305, AB-410, AB-620, AB-210, AB-250, MD-102, MS-700, MS-721, PL-400 | **Free** | 23 Nov 2026 – 27 Nov 2026 | Coming up |
-| [Microsoft Certification Week (EMEA, Italian)](https://ashiwanikumar.com/certification-vouchers/fastlane-emea-ais-aibs-it-2026-11-23) | SC-200, DP-600, AB-100, SC-401, SC-500, AI-200, GH-600, AZ-305, AB-410, AB-620, AB-210, AB-250, MD-102, MS-700, MS-721, PL-400 | **Free** | 23 Nov 2026 – 27 Nov 2026 | Coming up |
 | [Microsoft Sales Certification Week (EMEA, English)](https://ashiwanikumar.com/certification-vouchers/fastlane-emea-sales-en-2026-11-24) | AB-730, AB-731 | **Free** | 24 Nov 2026 – 26 Nov 2026 | Coming up |
 
 ## Already finished
@@ -78,6 +78,46 @@ How to get it:
 3. Use the 50% code DataCamp sends you when you book PL-300.
 
 [More on my site](https://ashiwanikumar.com/certification-vouchers/datacamp-pl-300-50) · [GitHub Student Pack](https://education.github.com/pack) · [Microsoft Credentials](https://learn.microsoft.com/en-us/credentials/)
+
+### Microsoft Certification Week (EMEA, German)
+
+Open · Microsoft (run by Fast Lane) · **Free**
+
+Five days of live, instructor-led prep for 16 Microsoft certifications across Azure, security, AI, Dynamics and Power Platform, run by Fast Lane for Microsoft. Score 80% or more on your first LevelUp practice test and you get a free exam voucher.
+
+- **Exams:** SC-200, DP-600, AB-100, SC-401, SC-500, AI-200, GH-600, AZ-305, AB-410, AB-620, AB-210, AB-250, MD-102, MS-700, MS-721, PL-400
+- **Dates:** 23 Nov 2026 – 27 Nov 2026
+- **Who can get it:** Microsoft partners. You register with your work email, and get one free exam voucher per event if you score 80% or more on your first LevelUp practice test. Later attempts don't count.
+- **How long the voucher lasts:** Check the LevelUp email for the expiry date
+
+How to get it:
+
+1. Register on the Fast Lane page with your work email.
+2. Attend the sessions for the exam you want.
+3. Take the LevelUp practice test and score 80% or more on your first try.
+4. LevelUp sends you a free voucher for one Microsoft exam.
+
+[More on my site](https://ashiwanikumar.com/certification-vouchers/fastlane-emea-ais-aibs-de-2026-11-23) · [Register on Fast Lane](https://certweeks.fastlane.net/emea/ais-aibs-de)
+
+### Microsoft Certification Week (EMEA, Italian)
+
+Open · Microsoft (run by Fast Lane) · **Free**
+
+Five days of live, instructor-led prep for 16 Microsoft certifications across Azure, security, AI, Dynamics and Power Platform, run by Fast Lane for Microsoft. Score 80% or more on your first LevelUp practice test and you get a free exam voucher.
+
+- **Exams:** SC-200, DP-600, AB-100, SC-401, SC-500, AI-200, GH-600, AZ-305, AB-410, AB-620, AB-210, AB-250, MD-102, MS-700, MS-721, PL-400
+- **Dates:** 23 Nov 2026 – 27 Nov 2026
+- **Who can get it:** Microsoft partners. You register with your work email, and get one free exam voucher per event if you score 80% or more on your first LevelUp practice test. Later attempts don't count.
+- **How long the voucher lasts:** Check the LevelUp email for the expiry date
+
+How to get it:
+
+1. Register on the Fast Lane page with your work email.
+2. Attend the sessions for the exam you want.
+3. Take the LevelUp practice test and score 80% or more on your first try.
+4. LevelUp sends you a free voucher for one Microsoft exam.
+
+[More on my site](https://ashiwanikumar.com/certification-vouchers/fastlane-emea-ais-aibs-it-2026-11-23) · [Register on Fast Lane](https://certweeks.fastlane.net/emea/ais-aibs-it)
 
 ### Microsoft Virtual Training Days
 
@@ -170,46 +210,6 @@ How to get it:
 4. Purchase vouchers
 
 [More on my site](https://ashiwanikumar.com/certification-vouchers/microsoft-skills-for-jobs-vouchers) · [Voucher program details](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE56hSq)
-
-### Microsoft Certification Week (EMEA, German)
-
-Coming up · Microsoft (run by Fast Lane) · **Free**
-
-Five days of live, instructor-led prep for 16 Microsoft certifications across Azure, security, AI, Dynamics and Power Platform, run by Fast Lane for Microsoft. Score 80% or more on your first LevelUp practice test and you get a free exam voucher.
-
-- **Exams:** SC-200, DP-600, AB-100, SC-401, SC-500, AI-200, GH-600, AZ-305, AB-410, AB-620, AB-210, AB-250, MD-102, MS-700, MS-721, PL-400
-- **Dates:** 23 Nov 2026 – 27 Nov 2026
-- **Who can get it:** Microsoft partners. You register with your work email, and get one free exam voucher per event if you score 80% or more on your first LevelUp practice test. Later attempts don't count.
-- **How long the voucher lasts:** Check the LevelUp email for the expiry date
-
-How to get it:
-
-1. Register on the Fast Lane page with your work email.
-2. Attend the sessions for the exam you want.
-3. Take the LevelUp practice test and score 80% or more on your first try.
-4. LevelUp sends you a free voucher for one Microsoft exam.
-
-[More on my site](https://ashiwanikumar.com/certification-vouchers/fastlane-emea-ais-aibs-de-2026-11-23) · [Register on Fast Lane](https://certweeks.fastlane.net/emea/ais-aibs-de)
-
-### Microsoft Certification Week (EMEA, Italian)
-
-Coming up · Microsoft (run by Fast Lane) · **Free**
-
-Five days of live, instructor-led prep for 16 Microsoft certifications across Azure, security, AI, Dynamics and Power Platform, run by Fast Lane for Microsoft. Score 80% or more on your first LevelUp practice test and you get a free exam voucher.
-
-- **Exams:** SC-200, DP-600, AB-100, SC-401, SC-500, AI-200, GH-600, AZ-305, AB-410, AB-620, AB-210, AB-250, MD-102, MS-700, MS-721, PL-400
-- **Dates:** 23 Nov 2026 – 27 Nov 2026
-- **Who can get it:** Microsoft partners. You register with your work email, and get one free exam voucher per event if you score 80% or more on your first LevelUp practice test. Later attempts don't count.
-- **How long the voucher lasts:** Check the LevelUp email for the expiry date
-
-How to get it:
-
-1. Register on the Fast Lane page with your work email.
-2. Attend the sessions for the exam you want.
-3. Take the LevelUp practice test and score 80% or more on your first try.
-4. LevelUp sends you a free voucher for one Microsoft exam.
-
-[More on my site](https://ashiwanikumar.com/certification-vouchers/fastlane-emea-ais-aibs-it-2026-11-23) · [Register on Fast Lane](https://certweeks.fastlane.net/emea/ais-aibs-it)
 
 ### Microsoft Sales Certification Week (EMEA, English)
 
